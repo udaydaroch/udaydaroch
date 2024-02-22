@@ -34,6 +34,6 @@ My repositories consist of sample projects made using the following coding frame
 📫 **How to reach me:**
 - [Gmail](UdayDaroch@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/uday-daroch-152a51280/)
-- [GitHub](https://github.com/udaydaroch)
 - [Portfolio](https://udaydaroch.github.io/)
-Feel free to connect with me! 😄
+
+#Feel free to connect with me! 😄
