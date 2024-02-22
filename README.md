@@ -36,4 +36,5 @@ My repositories consist of sample projects made using the following coding frame
 - [LinkedIn](https://www.linkedin.com/in/uday-daroch-152a51280/)
 - [Portfolio](https://udaydaroch.github.io/)
 
-#Feel free to connect with me! 😄
+**Feel free to connect with me! 😄**
+
