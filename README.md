@@ -32,8 +32,8 @@ My repositories consist of sample projects made using the following coding frame
 - Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 📫 **How to reach me:**
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- LinkedIn: [Uday Daroch](https://www.linkedin.com/in/udaydaroch/)
-- GitHub: [udaydaroch](https://github.com/udaydaroch)
-
+- [Gmail](UdayDaroch@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/uday-daroch-152a51280/)
+- [GitHub](https://github.com/udaydaroch)
+- [Portfolio](https://udaydaroch.github.io/)
 Feel free to connect with me! 😄
