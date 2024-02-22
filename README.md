@@ -20,16 +20,16 @@ My repositories consist of sample projects made using the following coding frame
 
 🔭 **Currently working with:**
 - React.js ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
-  Flask ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-  MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-  HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-  CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-  Bootstrap ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-  C ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-  PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-  JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  Java ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-  Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- Flask ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+- CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- Bootstrap ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+- C ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+- PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Java ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 📫 **How to reach me:**
 - Email: [your_email@example.com](mailto:your_email@example.com)
