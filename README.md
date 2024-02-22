@@ -19,17 +19,17 @@ I'm Uday Daroch, a third-year software engineering student at the University of 
 My repositories consist of sample projects made using the following coding frameworks and languages:
 
 
-(https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
-(https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-(https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-(https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-(https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-(https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-(https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-(https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-(https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-(https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-(https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+[React JS](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
+[Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+[MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+[HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+[CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+[Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+[C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+[PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+[Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+[Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 📫 **How to reach me:**
 - [Gmail](UdayDaroch@gmail.com)
