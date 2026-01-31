@@ -29,7 +29,7 @@ My repositories consist of sample projects made using the following coding frame
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 📫 **How to reach me:**
 - Gmail - UdayDaroch@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/uday-daroch-152a51280/)
